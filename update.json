@@ -1,6 +1,6 @@
 {
     "version":  "1.0.5",
     "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.0.5/DV3Helper_v1.0.5.zip",
-    "sha256":  "d367c7063ae7fcd915897062e20f176fa34a39e885db6fe4eab12dfcc6ae7780",
+    "sha256":  "55a564ac414773e1a1b424d5da62764b5f6b16e745447c121f0f1d5fff662eac",
     "notes":  "更新會覆蓋 templates；如果有自行更換圖檔，請先備份。"
 }
