@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.7",
-    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.0.7/DV3Helper_v1.0.7.zip",
-    "sha256":  "d1773dde77fdd1f55b733d6824c9cffa6fc9e0c30fdfbb4909c0fc26cda2ce6a",
-    "notes":  "- 新增多開功能，現在可以控制多個裝置\r\n- 討伐領獎，現在不需要再切換到領獎頁了"
+    "version":  "1.0.8",
+    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.0.8/DV3Helper_v1.0.8.zip",
+    "sha256":  "3da1ce294bf071f00eb715967053e3d1503e06896b78335eff9a66ec329f5b0a",
+    "notes":  "討伐領獎，現在不需要再切換到領獎頁了\r\n修正選擇已結束的關卡，卡在出戰畫面的問題"
 }
