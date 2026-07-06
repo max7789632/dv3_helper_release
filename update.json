@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.10",
-    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.0.10/DV3Helper_v1.0.10.zip",
-    "sha256":  "e8b41df52a9d0ed76e005c0deef8d534e61f7e48a1a0b9d2c76f4bd3fb09de87",
-    "notes":  "修正使用活力罐會卡住的問題"
+    "version":  "1.1.0",
+    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.0/DV3Helper_v1.1.0.zip",
+    "sha256":  "aeeeb6efdd40c1d68c0411b93b6f620a96f977d851b3d3b994851de225806365",
+    "notes":  "修正 自己開的討伐戰，現在不會卡在出戰畫面了\r\n新增 自動強化寶石功能，可配合寶石燃燒活動使用"
 }
