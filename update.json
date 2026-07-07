@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.0/DV3Helper_v1.1.0.zip",
-    "sha256":  "aeeeb6efdd40c1d68c0411b93b6f620a96f977d851b3d3b994851de225806365",
-    "notes":  "修正 自己開的討伐戰，現在不會卡在出戰畫面了\r\n新增 自動強化寶石功能，可配合寶石燃燒活動使用"
+    "version":  "1.1.1",
+    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.1/DV3Helper_v1.1.1.zip",
+    "sha256":  "2c9a1fc65304d24f36ac863d0858febc02f0022585fe61b4ae89be8c61c70bf5",
+    "notes":  "修正 寶石強化間隔從1秒改為1.3秒，解決強化點擊過快，漏強化的問題\r\n新增 寶石強化間隔現在可以自訂，有漏強化的問題請調高此設定"
 }
