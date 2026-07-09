@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.1",
-    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.1/DV3Helper_v1.1.1.zip",
-    "sha256":  "2c9a1fc65304d24f36ac863d0858febc02f0022585fe61b4ae89be8c61c70bf5",
-    "notes":  "修正寶石強化間隔從1秒改為1.3秒，解決強化點擊過快，漏強化的問題\r\n新增寶石強化間隔現在可以自訂，有漏強化的問題請調高此設定"
+    "version":  "1.1.2",
+    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.2/DV3Helper_v1.1.2.zip",
+    "sha256":  "0d5307478d9e1a69bd41226a85800502c3a0f0dc5afae4571fb6c1f00a52d26f",
+    "notes":  "新增BOSS骸帝"
 }
