@@ -1,6 +1,6 @@
 {
     "version":  "1.1.4",
     "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.4/DV3Helper_v1.1.4.zip",
-    "sha256":  "新增設定達到指定分數就退出戰鬥\r\n調整刷新後的滑動增加延遲，避免太早點擊",
-    "notes":  ""
+    "sha256":  "aee8bf79a58d1ab067d2cb4a3d2e5ccf92ca2c50109ce19f9ecea36db7bf3ce6",
+    "notes":  "新增設定達到指定分數就退出戰鬥\r\n調整刷新後的滑動增加延遲，避免太早點擊"
 }
