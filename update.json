@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.2",
-    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.2/DV3Helper_v1.1.2.zip",
-    "sha256":  "971873a05dcaa453b0a7e83abfdaaed9e6db51f84025b4868a0227b0ae46088e",
-    "notes":  "新增BOSS骸帝"
+    "version":  "1.1.4",
+    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.4/DV3Helper_v1.1.4.zip",
+    "sha256":  "新增設定達到指定分數就退出戰鬥\r\n調整刷新後的滑動增加延遲，避免太早點擊",
+    "notes":  ""
 }
