@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.4",
-    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.4/DV3Helper_v1.1.4.zip",
-    "sha256":  "aee8bf79a58d1ab067d2cb4a3d2e5ccf92ca2c50109ce19f9ecea36db7bf3ce6",
-    "notes":  ""
+    "version":  "1.1.5",
+    "url":  "https://github.com/max7789632/dv3_helper_release/releases/download/v1.1.5/DV3Helper_v1.1.5.zip",
+    "sha256":  "22eeff2ba78774a177434c7c06abb5ae4305139e509adb3671e0bbfdd363da40",
+    "notes":  "新版本因用戶序號邏輯調整，需重新綁定"
 }
